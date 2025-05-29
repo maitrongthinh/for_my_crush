@@ -1,0 +1,16 @@
+/* src/styles/variables.css */
+:root {
+  --background-color: #0d0d1a; /* Màu nền tối như vũ trụ */
+  --text-color: #e0e0e0; /* Màu chữ sáng */
+  --primary-color: #8a2be2; /* BlueViolet */
+  --secondary-color: #da70d6; /* Orchid */
+  --accent-color: #add8e6; /* LightBlue */
+
+  --button-bg: var(--primary-color);
+  --button-text: white;
+  --button-hover-bg: #9932cc; /* Darker BlueViolet */
+
+  /* Màu cho các hiệu ứng ánh sáng, sao */
+  --star-color: #ffffff;
+  --galaxy-color: #a020f0; /* Purple */
+}
